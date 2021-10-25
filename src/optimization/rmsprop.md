@@ -1,1 +1,0 @@
-# Root Mean Square Propagation

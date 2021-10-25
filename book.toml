@@ -3,6 +3,6 @@ authors = ["Tim Whitaker"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Wit's End"
+title = "Dead Neuron"
 
 [preprocessor.katex]
