@@ -30,9 +30,10 @@ a > .hljs {
   display: flex;
   flex-wrap: wrap;
   background-color: var(--bg);
-  border-bottom-color: var(--bg);
+  /* border-bottom-color: var(--bg); */
   border-bottom-width: 1px;
   border-bottom-style: solid;
+  border-bottom-color: var(--table-border-color);
 }
 #menu-bar.sticky,
 .js #menu-bar-hover-placeholder:hover + #menu-bar,
@@ -107,8 +108,8 @@ a > .hljs {
   color: black;
 }
 .menu-title img {
-  width: 128px;
-  padding-top: 10px;
+  width: 180px;
+  padding-top: 15px;
 }
 .js .menu-title {
   cursor: pointer;
