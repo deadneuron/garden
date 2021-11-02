@@ -1,7 +1,5 @@
 # Introduction
 
-![Network](/images/intro-nn.svg)
-
 TODO:
 
 - [ ] Neurons
@@ -15,10 +13,3 @@ TODO:
   - [ ] Recurrent
   - [ ] Pooling
   - [ ] Normalization
-- [ ] Initialization
-  - [ ] Kaiming
-  - [ ] Xavier
-  - [ ] Orthogonal
-- [ ] Optimization
-  - [ ] Gradient Descent
-  - [ ] Neuro-Evolution
